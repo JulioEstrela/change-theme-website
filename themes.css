@@ -1,0 +1,19 @@
+:root {
+    --green: #00ff00;
+    --white: #fff;
+    --black: #000;
+}
+
+.light-theme {
+    --fontColor: var(--black);
+    --bgColor: var(--green);
+    --btnFontColor: var(--green);
+    --btnBgColor: var(--black); 
+}
+
+.dark-theme {
+    --fontColor: var(--green);
+    --bgColor: var(--black);
+    --btnFontColor: var(--black);
+    --btnBgColor: var(--green); 
+}

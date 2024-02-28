@@ -1,0 +1,9 @@
+div:has(.theme-button) {
+    position: absolute;
+    left: 250px;
+    top: 20px;
+}
+
+.theme-button {
+    margin: 10px;
+}

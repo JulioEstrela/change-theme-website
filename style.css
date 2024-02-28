@@ -1,0 +1,25 @@
+* {
+    color: var(--fontColor);
+    font-family: helvetica;
+}
+
+body {
+    background-color: var(--bgColor);
+}
+
+li.done {
+    list-style: square;
+}
+
+li.undone {
+    list-style: circle;
+}
+
+.theme-button {
+    color: var(--btnFontColor);
+    background-color: var(--btnBgColor);
+
+    border-radius: 50%;
+    aspect-ratio: 1;
+}
+
