@@ -15,6 +15,10 @@ li.undone {
     list-style: circle;
 }
 
+button {
+    cursor: pointer;
+}
+
 .theme-button {
     color: var(--btnFontColor);
     background-color: var(--btnBgColor);
